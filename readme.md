@@ -42,7 +42,7 @@ project-directory/
 ```
 
 ### Step 3: Image(s)
-![image](https://github.com/Qharny/Qharny/assets/107959408/cb3850ff-739f-4146-a1ee-84d482e18351)#
+![image](https://raw.githubusercontent.com/Qharny/CRUD/main/main.png)
 
 ### Running the Application
 
