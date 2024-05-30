@@ -42,7 +42,15 @@ project-directory/
 ```
 
 ### Step 3: Image(s)
+---
+### Main
 ![image](https://raw.githubusercontent.com/Qharny/CRUD/main/main.png)
+
+### Save
+![image](https://raw.githubusercontent.com/Qharny/CRUD/main/save.png)
+
+### Edit
+![image](https://raw.githubusercontent.com/Qharny/CRUD/main/edit.png)
 
 ### Running the Application
 
