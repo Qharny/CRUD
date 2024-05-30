@@ -1,5 +1,3 @@
-### README.md
-
 # Firebase CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using HTML, CSS, JavaScript, and Firebase Firestore. The application allows you to add, display, update, and delete items from a Firestore database.
@@ -50,8 +48,8 @@ project-directory/
 ![image](https://raw.githubusercontent.com/Qharny/CRUD/main/save.png)
 
 ### Edit
-![image](https://raw.githubusercontent.com/Qharny/CRUD/main/edit.png)
-
+![image](https://raw.githubusercontent.com/Qharny/CRUD/main/Edit.png)
+---
 ### Running the Application
 
 1. Open `index.html` in your web browser.
