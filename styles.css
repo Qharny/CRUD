@@ -61,6 +61,18 @@ li:last-child {
     border-bottom: none;
 }
 
+li button:first-child{
+    background: green;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+li button:first-child:hover{
+    background: darkgreen;
+}
+
 li button {
     background: red;
     border: none;
